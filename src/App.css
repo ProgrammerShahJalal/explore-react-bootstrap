@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.cart-container{
+  margin: 35px 55px;
+}
+.cart-container h1{
+  text-align: center;
+  margin-bottom: 20px;
+}
